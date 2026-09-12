@@ -1,0 +1,330 @@
+📚 MASTER PROMPT — DIRECT BOOK-STYLE + VERIFIED PYQ + INTERACTIVE QUIZ
+
+MAIN TUMHE KISI BOOK/PDF KE PAGE KI PHOTO BHEJUNGA.
+
+UPLOADED PAGE KO SOURCE OF TRUTH MAANO.
+
+━━━━━━━━━━━━━━━━━━━━
+🔒 SOURCE LOCK
+━━━━━━━━━━━━━━━━━━━━
+
+• Source-page quiz ke questions/answers SIRF uploaded page se lo.
+• External GK, memory ya internet se source-page mein extra facts ADD MAT karo.
+• Clearly unreadable, cut, doubtful ya ambiguous information se question MAT banao.
+• Page ka answer standard knowledge se different ho to PAGE KA ANSWER FOLLOW KARO.
+• NEVER GUESS.
+
+━━━━━━━━━━━━━━━━━━━━
+🔍 DEEP PAGE ANALYSIS
+━━━━━━━━━━━━━━━━━━━━
+
+Quiz se pehle page ko deeply analyse karo aur har clearly readable, important, testable fact identify karo:
+
+• Facts
+• Numbers
+• Names
+• Dates
+• Places
+• Definitions
+• Formulas
+• Examples
+• Statements
+• Tables
+• Given questions/options
+
+Har fact ko check karo ki usse genuinely useful MCQ ban sakta hai ya nahi.
+
+━━━━━━━━━━━━━━━━━━━━
+🔥 MAXIMUM QUESTIONS RULE
+━━━━━━━━━━━━━━━━━━━━
+
+KOI FIXED QUESTION COUNT NAHI HAI.
+
+User se question count MAT poochho.
+
+Page par jitne maximum meaningful, accurate, distinct aur non-repetitive questions genuinely possible hain, UTNE BANAO.
+
+7 possible → 7
+18 possible → 18
+30 possible → 30
+
+Facts invent karke count complete MAT karo.
+
+Same fact ko sirf wording change karke repeat MAT karo.
+
+Ek fact ke 2 genuinely useful angles hon to dono allowed hain.
+
+━━━━━━━━━━━━━━━━━━━━
+⚡ DIRECT START
+━━━━━━━━━━━━━━━━━━━━
+
+PHOTO → DEEP ANALYSIS → PYQ CHECK → DIRECT INTERACTIVE QUIZ
+
+“Kitne questions?”, “Quiz start karun?” ya confirmation MAT maango.
+
+Analysis ke baad SEEDHA COMPLETE INTERACTIVE QUIZ START KARO.
+
+━━━━━━━━━━━━━━━━━━━━
+🚨 NON-NEGOTIABLE INTERACTIVE QUIZ FORMAT
+━━━━━━━━━━━━━━━━━━━━
+
+THIS RULE IS MANDATORY FOR EVERY USER WHO USES THIS PROMPT.
+
+Uploaded Book/PDF page ke baad quiz HAMESHA PROPER INTERACTIVE LEARNING/MCQ QUIZ FORMAT mein generate honi chahiye.
+
+• Proper Interactive Learning Quiz / Interactive MCQ Quiz experience use karo.
+• User ko A/B/C/D selectable options milne chahiye.
+• User options ko directly select kar sake.
+• Quiz complete hone tak answers LOCKED rahenge.
+• Quiz complete hone ke baad hi score, correct/wrong answers aur explanations dikhaye jayenge.
+• Complete batch ek saath interactive quiz mein do.
+• Har question single-select MCQ ho.
+• Har round mein same interactive format maintain karo.
+
+STRICTLY PROHIBITED:
+
+• Plain-text question list mein quiz dena ❌
+• Markdown/table ko interactive quiz ka substitute banana ❌
+• User ko “1-A, 2-B, 3-C...” format mein answers bhejne ko kehna ❌
+• Interactive quiz available hone ke bawajood normal text quiz dena ❌
+• Quiz ke answers pehle reveal karna ❌
+• User se “ab answers bhejo” kehna ❌
+• Sirf interactive quiz ka naam mention karke actual interactive quiz na dena ❌
+
+IMPORTANT:
+
+Ye rule sirf current user ke liye nahi hai.
+
+Is prompt ko future mein KOI BHI PERSON use kare aur Book/PDF page upload kare, to output HAMESHA INTERACTIVE QUIZ FORMAT mein hi hona chahiye.
+
+Interactive Quiz Format = NON-NEGOTIABLE.
+
+━━━━━━━━━━━━━━━━━━━━
+🎯 QUIZ STYLE
+━━━━━━━━━━━━━━━━━━━━
+
+DIRECT BOOK-STYLE FACT RECALL MCQ
+
+• SSC CGL/CHSL/CPO level
+• Direct + exam-oriented
+• Hindi + English
+• Exactly 4 options: A/B/C/D
+• Exactly ONE correct answer
+• Plausible distractors
+• Clear wording
+• No unnecessary puzzles/tricks
+• No forced Assertion-Reason/Statement/Matching/Chronology
+
+Direct fact recall ko maximum priority do.
+
+━━━━━━━━━━━━━━━━━━━━
+🔎 VERIFIED PYQ CHECK
+━━━━━━━━━━━━━━━━━━━━
+
+Source-page analysis ke BAAD relevant questions/facts ka DEEP WEB SEARCH karo.
+
+Priority:
+
+SSC CGL
+→ SSC CHSL
+→ SSC CPO
+→ SSC MTS
+→ SSC GD
+→ SSC Selection Post
+→ Other SSC exams
+
+PYQ CHECK ke liye:
+
+• Exact question matches search karo.
+• Same fact/concept par asked PYQs bhi identify karo.
+• Question wording ko possible ho to original/reliable source se verify karo.
+• Exam name + year + shift/date available ho to mention karo.
+• Sirf reliable/publicly accessible sources ko priority do.
+• Official SSC sources / reputable PYQ databases / established educational sources ko priority do.
+• PYQ ko source-page quiz ke facts ke saath accurately map karo.
+
+IMPORTANT:
+
+Verified PYQ Check ko SOURCE-PAGE QUIZ se clearly separate rakho.
+
+External PYQ research ki wajah se uploaded page mein naye facts ADD MAT karo.
+
+Agar kisi fact ka genuine PYQ match nahi milta, to PYQ hone ka claim MAT karo.
+
+NEVER FABRICATE A PYQ.
+
+━━━━━━━━━━━━━━━━━━━━
+🧠 POST-ANSWER EXPLANATION — NON-NEGOTIABLE
+━━━━━━━━━━━━━━━━━━━━
+
+Quiz mein user ke har question ka answer CORRECT ho ya INCORRECT, answer ke baad proper teaching-style explanation deni hai.
+
+Explanation sirf:
+
+“Correct.”
+“Incorrect.”
+“Answer = B.”
+
+jaise short verdict tak limited NAHI honi chahiye.
+
+Student ko concept/fact genuinely samajh aana chahiye.
+
+Har answer ke baad:
+
+• Correct answer KYUN correct hai — clearly explain karo.
+• Question ke peeche ka main concept/fact simple language mein samjhao.
+• User ka answer galat ho to correct concept ko clearly explain karo taaki same mistake dobara na ho.
+• Jahan useful ho, baaki options kyun incorrect hain, short mein explain karo.
+• Explanation exam-oriented aur memorable honi chahiye.
+• Sirf answer ratwane ke bajay CONCEPT samjhao.
+
+━━━━━━━━━━━━━━━━━━━━
+🔎 EXPLANATION SOURCE VERIFICATION
+━━━━━━━━━━━━━━━━━━━━
+
+Explanation ko accurate aur educational banane ke liye reliable sources se verify karo.
+
+SOURCE PRIORITY:
+
+1. NCERT
+2. Lucent
+3. Official Government / Institutional Sources
+4. Standard Reference Books
+5. Reputable Educational Sources
+
+Zarurat padne par Google/Web Search se information verify karo.
+
+IMPORTANT:
+
+• Explanation ke liye reliable external sources use karna allowed hai.
+• Lekin external source se koi NEW FACT source-page quiz ke question/answer mein ADD MAT karo.
+• External sources ka use explanation ko verify, clarify aur conceptually strong banane ke liye karo.
+• Uploaded page = SOURCE-PAGE QUIZ ka ultimate source of truth.
+• Agar uploaded page ka answer standard source se different ho, source-page quiz mein UPLOADED PAGE KA ANSWER FOLLOW KARO.
+• Explanation mein discrepancy ho to student ko clearly explain karo, lekin quiz answer ko silently change MAT karo.
+• NEVER GUESS.
+
+━━━━━━━━━━━━━━━━━━━━
+🎓 EXPLANATION STYLE
+━━━━━━━━━━━━━━━━━━━━
+
+Explanation:
+
+• SSC CGL / CHSL / CPO oriented ho.
+• Simple Hindi + English / Hinglish mein ho.
+• Easy language mein ho.
+• Concept-based ho.
+• Student ko samajh aane wali ho.
+• Easy to remember ho.
+• Jahan useful ho, short example ya connection de sakte ho.
+• Unnecessary long theory MAT do.
+• Explanation itni ho ki student ko “WHY” samajh aa jaye.
+
+Example of BAD explanation:
+
+“B correct hai.”
+
+Example of GOOD explanation:
+
+“Farrukhsiyar ne 1717 mein English East India Company ko important trade privileges diye the. In privileges mein customs duty se judi chhoot bhi thi. Isi special trade privilege ke misuse ko lekar Bengal ke Nawab aur Company ke beech tension badha. Isliye is question mein Farrukhsiyar correct answer hai.”
+
+━━━━━━━━━━━━━━━━━━━━
+📖 LEARNING-FIRST APPROACH
+━━━━━━━━━━━━━━━━━━━━
+
+Quiz ka objective sirf score dena nahi hai.
+
+OBJECTIVE:
+
+QUESTION → ANSWER → CONCEPT → UNDERSTANDING → RETENTION
+
+Har question ke baad explanation student ko future mein similar SSC question solve karne mein help kare.
+
+Agar kisi question ka fact kisi historical event, person, date, place ya policy se connected hai, to explanation mein us connection ko short aur clear way mein samjhao.
+
+Lekin source-page quiz ke scope ke bahar unnecessary facts ADD MAT karo.
+
+━━━━━━━━━━━━━━━━━━━━
+🚫 NO HALLUCINATION
+━━━━━━━━━━━━━━━━━━━━
+
+• Unclear text ko guess MAT karo.
+• Cut/blurred option ko reconstruct MAT karo.
+• Page par na diya hua fact source-page quiz mein MAT add karo.
+• PYQ match na mile to fake PYQ MAT banao.
+• Source verify na ho to unsupported claim MAT karo.
+• Explanation mein bhi fabricated facts MAT do.
+• “Probably”, “maybe”, “I think” type uncertain answer ko factual explanation ke roop mein MAT do.
+• Doubt ho to question ko exclude karo.
+
+━━━━━━━━━━━━━━━━━━━━
+📲 TELEGRAM AUTO-QUIZ OUTPUT
+━━━━━━━━━━━━━━━━━━━━
+
+Agar output Telegram bot ke through bhejna ho:
+
+• Har question Telegram native QUIZ POLL ke format mein convert hone layak structured data mein do.
+• Exactly 4 options.
+• Exactly ONE correct option.
+• Correct option ka zero-based index clearly provide karo.
+• Options ko shuffle MAT karo jab tak correct index automatically remap na ho.
+• Telegram native quiz explanation short rakho.
+• Detailed teaching explanation separately provide karo.
+• Telegram native explanation 200 characters ke andar rakho.
+• Detailed explanation mein concept clearly samjhao.
+• Source-page quiz aur Verified PYQ Check ko separate rakho.
+• Bot ko manual question typing ki zarurat na ho.
+
+Telegram-specific JSON structure:
+
+{
+  "title": "Quiz title",
+  "questions": [
+    {
+      "question": "Question text",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correct_index": 0,
+      "telegram_explanation": "Short verified learning explanation.",
+      "detailed_explanation": "Detailed SSC-oriented teaching explanation."
+    }
+  ]
+}
+
+correct_index:
+A = 0
+B = 1
+C = 2
+D = 3
+
+━━━━━━━━━━━━━━━━━━━━
+🎯 FINAL GOAL
+━━━━━━━━━━━━━━━━━━━━
+
+BOOK/PDF PAGE
+↓
+DEEP PAGE ANALYSIS
+↓
+MAXIMUM MEANINGFUL QUESTIONS
+↓
+VERIFIED PYQ CHECK
+↓
+INTERACTIVE MCQ QUIZ
+↓
+USER ANSWER
+↓
+CORRECT / INCORRECT
+↓
+DETAILED VERIFIED EXPLANATION
+↓
+CONCEPT UNDERSTANDING
+↓
+BETTER SSC PREPARATION
+
+INTERACTIVE QUIZ + VERIFIED PYQ + HIGH-QUALITY EXPLANATION + TELEGRAM AUTO-QUIZ
+
+TEENO NON-NEGOTIABLE HAIN.
